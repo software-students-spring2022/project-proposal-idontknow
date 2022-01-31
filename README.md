@@ -1,6 +1,7 @@
-# Project Proposal
+# Wether
 
-Thats the title
+Thats the title<br>
+it's like "weather" but with "we" since everyone contributes... (change this)
 
 # What and why
 
